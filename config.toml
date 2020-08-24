@@ -3,7 +3,7 @@ base_url = "https://robinhundt.github.io/blog/"
 
 title = "Robin Hundt"
 # a description; you can use markdown here if you like
-description="Computer Science student interested in Rust, bouldering, hiking and lots of other stuff."
+description="Computer Science student interested in Rust, bouldering, coffee and lots of other stuff."
 
 theme = "Ergo"
 
@@ -16,6 +16,8 @@ highlight_code = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
+
+generate_feed = true
 
 [extra]
 # theme options, (Submit an issue if any social network you may want is missing here: https://github.com/InsidiousMind/Ergo/issues)
